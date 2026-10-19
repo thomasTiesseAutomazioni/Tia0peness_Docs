@@ -1,0 +1,5 @@
+-inizaire a automatizzare la creazione di pagina cmd manuali pannello unified
+-inizaire a automatizzare la creazione di pagina allarmi pannello unified
+-inizaire a automatizzare la creazione di pagina stato IO pannello unified
+-All'interno dell FB ev gestire direttamente l'allarme della DB10 struttura ALLARMI_EV[xx]. Far passare in automatico da visualstudio il numero xx di  ALLARMI_EV[xx]
+-
